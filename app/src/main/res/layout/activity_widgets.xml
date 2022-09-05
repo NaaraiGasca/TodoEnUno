@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Widgets">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="30dp">
+
+            <Button
+                android:id="@+id/bmainpw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="paginaweb"
+                android:text="@string/paginaweb"
+                android:gravity="center"
+                tools:ignore="OnClick" />
+
+            <Button
+                android:id="@+id/bmainvw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="videoweb"
+                android:text="@string/Video"
+                android:gravity="center"
+                tools:ignore="OnClick" />
+
+            <Button
+                android:id="@+id/bmaincal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="calendario"
+                android:text="@string/calendario"
+                android:gravity="center"
+                tools:ignore="OnClick" />
+
+            <Button
+                android:id="@+id/bmainsig"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="siguiente"
+                android:text="@string/vermas"
+                android:gravity="center"
+                tools:ignore="OnClick" />
+
+            <RatingBar
+                android:id="@+id/ratingBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:numStars="5" android:rating="5"/>
+
+            <ProgressBar
+                android:id="@+id/progressBar4"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:visibility="visible"
+                tools:visibility="visible"/>
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="bottom"
+                app:srcCompat="@drawable/img"/>
+
+            <Button
+                android:id="@+id/btnWRegresar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:text="@string/regresar"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

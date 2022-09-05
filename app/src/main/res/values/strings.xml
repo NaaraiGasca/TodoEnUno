@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Todo En Uno</string>
+    <string name="saludo">Bienvenidos</string>
+
+    <string name="usuario">Ingrese su usuario</string>
+    <string name="contrasenia">Ingrese su contraseña</string>
+    <string name="exito">Su ingreso fue exitoso</string>
+    <string name="error">Error en usuario o contraseña, por favor revise</string>
+
+    <string name="menu">Menu</string>
+    <string name="opciones">Presione la opción de su preferencia</string>
+    <string name="textos">Texto</string>
+    <string name="botones">Botones</string>
+    <string name="widgets">Widgets</string>
+    <string name="layouts">Layouts</string>
+    <string name="containers">Containers</string>
+    <string name="scroll">Scroll View</string>
+    <string name="helpers">Helpers</string>
+    <string name="google">Google</string>
+    <string name="legacy">Legacy</string>
+    <string name="acercade">Acerca de</string>
+    <string name="salida">Salir</string>
+    <string name="acceso">Acceder</string>
+    <string name="regresar">Regresar</string>
+
+    <!--HELPERS-->
+    <string name="guidelines">Guideline</string>
+    <string name="groups">Group</string>
+    <string name="flow">Flow</string>
+    <string name="mockview">Mockview</string>
+    <string name="holamundo">holamundo</string>
+    <string name="boton1">Este es el boton numero 1</string>
+    <string name="boton2">Este es el boton numero 2</string>
+    <string name="boton3">Este es el boton numero 3</string>
+    <string name="abcd"> A B C D E F G H I J K L M N O P Q R S T U V X Y Z</string>
+    <string name="group">Group y Barrier</string>
+    <string name="guideline">Guideline, Layer, ImageFilter</string>
+    <string name="title_activity_hmockview">HMockview</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--LAYOUTS-->
+    <string name="cons">Constraint</string>
+    <string name="linear">Linear</string>
+    <string name="frame">Frame</string>
+    <string name="table">Table</string>
+
+    <!--GOOGLE-->
+    <string name="maps">Map View</string>
+    <string name="ads">Ads View</string>
+
+    <!--WIDGETS-->
+    <string name="vermas">Ver más</string>
+    <string name="paginaweb">Página web</string>
+    <string name="Video">Video</string>
+    <string name="calendario">Calendario</string>
+    <string name="puntuar">Puntuar</string>
+
+    <!--BUTTONS-->
+    <string name="click">Click</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="seleccion">Opción</string>
+    <string name="icono_estrella">Icono Estrella</string>
+    <string name="texto_de_prueba">Texto de prueba</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Cancelar">Cancelar</string>
+
+    <!--SCROLLL-->
+    <string name="scrollhorizontal">Scrollview Horizontal</string>
+    <string name="scrollnested">Scrollview Nested</string>
+</resources>
