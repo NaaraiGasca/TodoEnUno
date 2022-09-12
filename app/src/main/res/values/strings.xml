@@ -7,9 +7,10 @@
     <string name="exito">Su ingreso fue exitoso</string>
     <string name="error">Error en usuario o contraseña, por favor revise</string>
 
+    <!--MENU PRINCIPAAAAAL-->
     <string name="menu">Menu</string>
     <string name="opciones">Presione la opción de su preferencia</string>
-    <string name="textos">Texto</string>
+    <string name="textos">Textos</string>
     <string name="botones">Botones</string>
     <string name="widgets">Widgets</string>
     <string name="layouts">Layouts</string>
@@ -70,4 +71,24 @@
     <!--SCROLLL-->
     <string name="scrollhorizontal">Scrollview Horizontal</string>
     <string name="scrollnested">Scrollview Nested</string>
+
+
+    <!--TEXTOOOOOOOOS-->
+    <string name="texto">Texto básico</string>
+    <string name="textop">Texto plano</string>
+    <string name="textoPass">Password</string>
+    <string name="textoPassN">Password numérico</string>
+    <string name="textoemail">Email</string>
+    <string name="textophone">Phone</string>
+    <string name="textopostal">Postal</string>
+    <string name="textomultilinea">Multilinea</string>
+    <string name="textotiempo">Tiempo</string>
+    <string name="textonumerico">Numérico</string>
+    <string name="textodate">Fecha</string>
+    <string name="TSalir">Regresar</string>
+
+
+    <!--LEGACY-->
+    <string name="Ltexto">Grid Layout</string>
+
 </resources>

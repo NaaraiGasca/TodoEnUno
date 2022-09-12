@@ -48,8 +48,8 @@ public class Layouts extends AppCompatActivity {
         btnTable.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //Intent intent = new Intent(view.getContext(), Table.class);
-                //startActivity(intent);
+                Intent intent = new Intent(view.getContext(), Layout_Table.class);
+                startActivity(intent);
 
             }
         });

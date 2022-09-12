@@ -26,7 +26,8 @@ public class MenuPrincipal extends AppCompatActivity {
         btnTextos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent intent = new Intent(MenuPrincipal.this, Textos.class);
+                startActivity(intent);
             }
         });
 
@@ -102,7 +103,8 @@ public class MenuPrincipal extends AppCompatActivity {
         btnLegacy.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent intent = new Intent(MenuPrincipal.this, Legacy.class);
+                startActivity(intent);
             }
         });
 
@@ -146,7 +148,7 @@ public class MenuPrincipal extends AppCompatActivity {
         new AlertDialog.Builder(this)
                 .setTitle("ACERCA DE..")
                 .setMessage("" +
-                        "Salma Naarai \n" +
+                        "Salma Naarai Gasca Mendoza\n" +
                         "Profesora: Rocio Elizabeth Pulido Alba \n" +
                         "Movil 2022-B \n" +
                         "vrs 001").setPositiveButton("Aceptar", null).show();

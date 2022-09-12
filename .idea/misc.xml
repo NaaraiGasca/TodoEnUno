@@ -8,7 +8,7 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_buttons.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_containers.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_gads.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_gmaps.xml" value="0.15" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_gmaps.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_google.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_helpers.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_hflow.xml" value="0.18432971014492755" />
@@ -21,6 +21,7 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_layout_linear.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_layout_table.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_layouts.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_legacy.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_menu.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_menuprincipal.xml" value="0.22" />
@@ -28,8 +29,9 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_shorizontal.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_snested.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_snormal.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_textos.xml" value="0.2" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_wcalendario.xml" value="0.1" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_widgets.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_widgets.xml" value="0.18" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_wimageview.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_wvideoview.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/TodoEnUno/app/src/main/res/layout/activity_wwebview.xml" value="0.1" />

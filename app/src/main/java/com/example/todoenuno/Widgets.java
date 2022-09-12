@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 public class Widgets extends AppCompatActivity {
     Button btnRegresar;
+    Button btnWebview;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +26,16 @@ public class Widgets extends AppCompatActivity {
                 finish();
             }
         });
+
+        btnWebview = findViewById(R.id.bmainpw);
+        btnRegresar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i= new Intent( Widgets.this, Wwebview.class );
+                startActivity(i);
+            }
+        });
+
     }
 
     // ir de la view sencilla a la image view
@@ -34,7 +45,7 @@ public class Widgets extends AppCompatActivity {
     }
 
     public void paginaweb(View view){
-        Intent paginaweb= new Intent( this, Wwebview.class );
+        Intent paginaweb= new Intent( Widgets.this, Wwebview.class );
         startActivity(paginaweb);
     }
 
